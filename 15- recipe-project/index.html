@@ -14,20 +14,39 @@
     <div class="mobile-container">
 
         <header>
-            <input type="text">
+            <input type="text" id="search-term">
             <button id="search"><i class="fas fa-search"></i></button>
         </header>
         <div class="fav-container">
             <h3>Favorite Meals</h3>
             <ul class=" fav-meals" id="fav-meals">
-            
             </ul>
         </div>
         <div class="meals" id="meals">
-           
         </div>
+
+        <div class="translate" id="google_translate_element"></div>
     </div>
 
+
+    <div class="popup-container hidden" id="meal-popup">
+        <div class="popup">
+            <button id="close-popup" class="close-popup">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="meal-info" id="meal-info"></div>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+        }
+    </script>
+
+    <script type="text/javascript"
+        src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <script src="app.js"></script>
 </body>
