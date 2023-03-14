@@ -6,3 +6,6 @@
 
 ## 15 - Recipe Project
 ![Ekran görüntüsü 2023-03-13 160253](https://user-images.githubusercontent.com/62944836/224709811-2886f5c7-597d-4062-9a22-918363a41d13.png)
+
+## 16 - Notes Project
+![Ekran görüntüsü 2023-03-14 140154](https://user-images.githubusercontent.com/62944836/224981819-4a9c6d33-cf11-42c4-b3d2-a81c561238c6.png)
