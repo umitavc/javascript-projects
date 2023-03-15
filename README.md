@@ -9,3 +9,6 @@
 
 ## 16 - Notes Project
 ![Ekran görüntüsü 2023-03-14 140154](https://user-images.githubusercontent.com/62944836/224981819-4a9c6d33-cf11-42c4-b3d2-a81c561238c6.png)
+
+## 17 - Todo Project
+![Ekran görüntüsü 2023-03-15 155413](https://user-images.githubusercontent.com/62944836/225315110-26377b78-55cd-4b1d-98c7-8d5b4d4063fc.png)
