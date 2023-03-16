@@ -12,3 +12,6 @@
 
 ## 17 - Todo Project
 ![Ekran görüntüsü 2023-03-15 155413](https://user-images.githubusercontent.com/62944836/225315110-26377b78-55cd-4b1d-98c7-8d5b4d4063fc.png)
+
+## 18 - Movies Project
+![Ekran görüntüsü 2023-03-16 132139](https://user-images.githubusercontent.com/62944836/225587908-105b2587-67c0-4e4a-98be-746c19eb1ca9.png)
